@@ -30,3 +30,4 @@ grunt-cli@0.1.13 /usr/local/lib/node_modules/grunt-cli
 └── findup-sync@0.1.3 (lodash@2.4.2, glob@3.2.11)
 
 
+Reference: http://mixandgo.com/blog/how-to-install-bootstrap-4-in-rails
