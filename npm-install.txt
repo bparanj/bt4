@@ -1,0 +1,240 @@
+$ cd bootstrap-4.0.0-alpha.2
+bootstrap-4.0.0-alpha.2 bparanj$ npm install
+npm WARN deprecated lodash@0.9.2: Grunt needs your help! See https://github.com/gruntjs/grunt/issues/1403.
+npm WARN deprecated npmconf@2.1.1: this package has been reintegrated into npm and is now out of date with respect to npm
+npm WARN deprecated graceful-fs@1.2.3: graceful-fs version 3 and before will fail on newer node releases. Please update to graceful-fs@^4.0.0 as soon as possible.
+npm WARN deprecated lodash@1.0.2: lodash@<3.0.0 is no longer maintained. Upgrade to lodash@^4.0.0.
+ 
+> phantomjs@1.9.19 install /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs
+> node install.js
+
+PhantomJS not found on PATH
+Downloading https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-1.9.8-macosx.zip
+Saving to /var/folders/k3/7sc06n7s5cgd1rp4jqjt4tl1r408cb/T/phantomjs/phantomjs-1.9.8-macosx.zip
+Receiving...
+/ [==========================--------------] 66% 0.0s|
+Received 9187K total.
+Extracting zip contents
+Removing /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom
+Copying extracted folder /var/folders/k3/7sc06n7s5cgd1rp4jqjt4tl1r408cb/T/phantomjs/phantomjs-1.9.8-macosx.zip-extract-1457732362066/phantomjs-1.9.8-macosx -> /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom
+Writing location.js file
+Done. Phantomjs binary available at /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/bin/phantomjs
+npm WARN deprecated npmconf@2.1.2: this package has been reintegrated into npm and is now out of date with respect to npm
+ 
+> spawn-sync@1.0.15 postinstall /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-sass/node_modules/node-sass/node_modules/cross-spawn/node_modules/spawn-sync
+> node postinstall
+
+-
+> node-sass@3.4.2 install /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-sass/node_modules/node-sass
+> node scripts/install.js
+
+Binary downloaded and installed at /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-sass/node_modules/node-sass/vendor/darwin-x64-46/binding.node
+
+> node-sass@3.4.2 postinstall /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-sass/node_modules/node-sass
+> node scripts/build.js
+
+` /Users/bparanj/Downloads/bootstrap-4.0.0-alpha.2/node_modules/grunt-sass/node_modules/node-sass/vendor/darwin-x64-46/binding.node ` exists. 
+ testing binary.
+Binary is fine; exiting.
+is-travis@1.0.0 node_modules/is-travis
+
+btoa@1.1.2 node_modules/btoa
+
+grunt-exec@0.4.6 node_modules/grunt-exec
+
+grunt-line-remover@0.0.2 node_modules/grunt-line-remover
+
+grunt-stamp@0.1.0 node_modules/grunt-stamp
+
+shelljs@0.5.3 node_modules/shelljs
+
+grunt-jekyll@0.4.4 node_modules/grunt-jekyll
+└── tmp@0.0.28 (os-tmpdir@1.0.1)
+
+glob@6.0.4 node_modules/glob
+├── path-is-absolute@1.0.0
+├── inherits@2.0.1
+├── inflight@1.0.4 (wrappy@1.0.1)
+├── once@1.3.3 (wrappy@1.0.1)
+└── minimatch@3.0.0 (brace-expansion@1.1.3)
+
+grunt-contrib-copy@0.8.2 node_modules/grunt-contrib-copy
+├── file-sync-cmp@0.1.1
+└── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+
+time-grunt@1.3.0 node_modules/time-grunt
+├── date-time@1.0.0
+├── number-is-nan@1.0.0
+├── figures@1.4.0
+├── hooker@0.2.3
+├── text-table@0.2.0
+├── pretty-ms@2.1.0 (parse-ms@1.0.1, plur@1.0.0, is-finite@1.0.1)
+└── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+
+grunt-contrib-sass@0.9.2 node_modules/grunt-contrib-sass
+├── async@0.9.2
+├── dargs@4.1.0 (number-is-nan@1.0.0)
+├── cross-spawn@0.2.9 (lru-cache@2.7.3)
+├── chalk@0.5.1 (ansi-styles@1.1.0, escape-string-regexp@1.0.5, supports-color@0.2.0, strip-ansi@0.3.0, has-ansi@0.1.0)
+└── which@1.2.4 (isexe@1.1.2, is-absolute@0.1.7)
+
+grunt-contrib-concat@0.5.1 node_modules/grunt-contrib-concat
+├── chalk@0.5.1 (ansi-styles@1.1.0, escape-string-regexp@1.0.5, supports-color@0.2.0, strip-ansi@0.3.0, has-ansi@0.1.0)
+└── source-map@0.3.0 (amdefine@1.0.0)
+
+load-grunt-tasks@3.3.0 node_modules/load-grunt-tasks
+├── arrify@1.0.1
+├── multimatch@2.1.0 (array-differ@1.0.0, array-union@1.0.1, minimatch@3.0.0)
+└── pkg-up@1.0.0 (find-up@1.1.2)
+
+grunt-contrib-clean@0.7.0 node_modules/grunt-contrib-clean
+└── rimraf@2.5.2 (glob@7.0.3)
+
+grunt-contrib-watch@0.6.1 node_modules/grunt-contrib-watch
+├── async@0.2.10
+├── lodash@2.4.2
+├── gaze@0.5.2 (globule@0.1.0)
+└── tiny-lr-fork@0.0.5 (debug@0.7.4, qs@0.5.6, faye-websocket@0.4.4, noptify@0.0.3)
+
+grunt-postcss@0.7.2 node_modules/grunt-postcss
+├── es6-promise@3.1.2
+├── diff@2.2.1
+├── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, has-ansi@2.0.0, strip-ansi@3.0.1, ansi-styles@2.2.0)
+└── postcss@5.0.19 (js-base64@2.1.9, supports-color@3.1.2, source-map@0.5.3)
+
+mq4-hover-shim@0.3.0 node_modules/mq4-hover-shim
+├── css-mq-parser@0.0.3
+└── postcss@5.0.19 (js-base64@2.1.9, supports-color@3.1.2, source-map@0.5.3)
+
+markdown-it@5.1.0 node_modules/markdown-it
+├── linkify-it@1.2.0
+├── mdurl@1.0.1
+├── uc.micro@1.0.0
+├── entities@1.1.1
+└── argparse@1.0.6 (sprintf-js@1.0.3)
+
+grunt@0.4.5 node_modules/grunt
+├── eventemitter2@0.4.14
+├── dateformat@1.0.2-1.2.3
+├── which@1.0.9
+├── getobject@0.1.0
+├── async@0.1.22
+├── colors@0.6.2
+├── lodash@0.9.2
+├── hooker@0.2.3
+├── rimraf@2.2.8
+├── grunt-legacy-util@0.2.0
+├── exit@0.1.2
+├── nopt@1.0.10 (abbrev@1.0.7)
+├── coffee-script@1.3.3
+├── iconv-lite@0.2.11
+├── minimatch@0.2.14 (sigmund@1.0.1, lru-cache@2.7.3)
+├── underscore.string@2.2.1
+├── glob@3.1.21 (inherits@1.0.2, graceful-fs@1.2.3)
+├── grunt-legacy-log@0.1.3 (grunt-legacy-log-utils@0.1.1, lodash@2.4.2, underscore.string@2.3.3)
+├── findup-sync@0.1.3 (lodash@2.4.2, glob@3.2.11)
+└── js-yaml@2.0.5 (esprima@1.0.4, argparse@0.1.16)
+
+grunt-contrib-connect@0.11.2 node_modules/grunt-contrib-connect
+├── connect-livereload@0.5.4
+├── opn@1.0.2
+├── async@0.9.2
+├── portscanner@1.0.0 (async@0.1.15)
+├── morgan@1.7.0 (on-headers@1.0.1, basic-auth@1.0.3, depd@1.1.0, on-finished@2.3.0, debug@2.2.0)
+├── connect@3.4.1 (utils-merge@1.0.0, parseurl@1.3.1, debug@2.2.0, finalhandler@0.4.1)
+├── serve-static@1.10.2 (escape-html@1.0.3, parseurl@1.3.1, send@0.13.1)
+└── serve-index@1.7.3 (escape-html@1.0.3, parseurl@1.3.1, batch@0.5.3, http-errors@1.3.1, debug@2.2.0, mime-types@2.1.10, accepts@1.2.13)
+
+grunt-contrib-cssmin@0.14.0 node_modules/grunt-contrib-cssmin
+├── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+├── clean-css@3.4.10 (commander@2.8.1, source-map@0.4.4)
+└── maxmin@1.1.0 (figures@1.4.0, gzip-size@1.0.0, pretty-bytes@1.0.4)
+
+grunt-csscomb@3.1.0 node_modules/grunt-csscomb
+└── csscomb@3.1.8 (vow@0.4.4, commander@2.0.0, gonzales-pe@3.0.0-28, csscomb-core@3.0.0-3.1)
+
+grunt-build-control@0.6.3 node_modules/grunt-build-control
+├── semver@4.3.6
+├── shelljs@0.2.6
+└── bluebird@3.3.4
+
+grunt-contrib-qunit@0.7.0 node_modules/grunt-contrib-qunit
+└── grunt-lib-phantomjs@0.6.0 (eventemitter2@0.4.14, semver@1.0.14, temporary@0.0.8, phantomjs@1.9.19)
+
+grunt-html@5.0.1 node_modules/grunt-html
+├── async@1.4.0
+└── chalk@1.1.0 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+
+grunt-scss-lint@0.3.8 node_modules/grunt-scss-lint
+├── xmlbuilder@2.6.5
+├── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+├── which@1.2.4 (isexe@1.1.2, is-absolute@0.1.7)
+└── lodash@3.10.1
+
+grunt-contrib-compress@0.14.0 node_modules/grunt-contrib-compress
+├── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+├── pretty-bytes@2.0.1 (number-is-nan@1.0.0, get-stdin@4.0.1, meow@3.7.0)
+└── archiver@0.16.0 (async@1.4.2, buffer-crc32@0.2.5, lazystream@0.1.0, readable-stream@1.0.33, glob@5.0.15, zip-stream@0.6.0, tar-stream@1.2.2, lodash@3.10.1)
+
+autoprefixer@6.3.3 node_modules/autoprefixer
+├── normalize-range@0.1.2
+├── num2fraction@1.2.2
+├── browserslist@1.1.3
+├── postcss-value-parser@3.3.0
+├── postcss@5.0.19 (js-base64@2.1.9, supports-color@3.1.2, source-map@0.5.3)
+└── caniuse-db@1.0.30000428
+
+grunt-contrib-uglify@0.11.1 node_modules/grunt-contrib-uglify
+├── uri-path@1.0.0
+├── maxmin@2.1.0 (figures@1.4.0, pretty-bytes@3.0.1, gzip-size@3.0.0)
+├── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+├── uglify-js@2.6.2 (async@0.2.10, uglify-to-browserify@1.0.2, source-map@0.5.3, yargs@3.10.0)
+└── lodash@4.6.1
+
+grunt-saucelabs@8.6.2 node_modules/grunt-saucelabs
+├── q@1.3.0
+├── saucelabs@0.1.1
+├── colors@1.0.3
+├── requestretry@1.2.2 (fg-lodash@0.0.2, request@2.51.0)
+├── lodash@3.7.0
+└── sauce-tunnel@2.3.0 (split@0.3.3, chalk@1.0.0, request@2.21.0)
+
+grunt-babel@5.0.3 node_modules/grunt-babel
+└── babel-core@5.8.35 (path-is-absolute@1.0.0, try-resolve@1.0.1, slash@1.0.0, babel-plugin-inline-environment-variables@1.0.1, babel-plugin-remove-debugger@1.0.1, babel-plugin-remove-console@1.0.1, babel-plugin-jscript@1.0.4, babel-plugin-react-constant-elements@1.0.3, babel-plugin-eval@1.0.1, babel-plugin-react-display-name@1.0.3, babel-plugin-constant-folding@1.0.1, babel-plugin-property-literals@1.0.1, babel-plugin-dead-code-elimination@1.0.2, babel-plugin-member-expression-literals@1.0.1, path-exists@1.0.0, babel-plugin-undefined-to-void@1.1.6, shebang-regex@1.0.0, trim-right@1.0.1, to-fast-properties@1.0.1, babel-plugin-proto-to-assign@1.0.4, fs-readdir-recursive@0.1.2, globals@6.4.1, babel-plugin-runtime@1.0.7, esutils@2.0.2, private@0.1.6, convert-source-map@1.2.0, js-tokens@1.0.1, home-or-tmp@1.0.0, source-map@0.5.3, debug@2.2.0, babel-plugin-undeclared-variables-check@1.0.2, babylon@5.8.35, line-numbers@0.2.0, is-integer@1.0.6, repeating@1.1.3, chalk@1.1.1, detect-indent@3.0.1, minimatch@2.0.10, bluebird@2.10.2, output-file-sync@1.1.1, resolve@1.1.7, source-map-support@0.2.10, regexpu@1.3.0, json5@0.4.0, regenerator@0.8.40, lodash@3.10.1, core-js@1.2.6)
+
+babel-eslint@4.1.8 node_modules/babel-eslint
+├── acorn-to-esprima@1.0.7
+├── lodash.assign@3.2.0 (lodash._createassigner@3.1.1, lodash._baseassign@3.2.0, lodash.keys@3.1.2)
+├── lodash.pick@3.1.0 (lodash.restparam@3.6.1, lodash._bindcallback@3.0.1, lodash._pickbyarray@3.0.2, lodash._baseflatten@3.1.4, lodash._pickbycallback@3.0.0)
+└── babel-core@5.8.35 (path-is-absolute@1.0.0, slash@1.0.0, try-resolve@1.0.1, babel-plugin-remove-debugger@1.0.1, babel-plugin-remove-console@1.0.1, babel-plugin-react-constant-elements@1.0.3, babel-plugin-inline-environment-variables@1.0.1, babel-plugin-react-display-name@1.0.3, babel-plugin-jscript@1.0.4, babel-plugin-eval@1.0.1, babel-plugin-dead-code-elimination@1.0.2, babel-plugin-constant-folding@1.0.1, babel-plugin-property-literals@1.0.1, path-exists@1.0.0, babel-plugin-undefined-to-void@1.1.6, babel-plugin-member-expression-literals@1.0.1, shebang-regex@1.0.0, to-fast-properties@1.0.1, trim-right@1.0.1, fs-readdir-recursive@0.1.2, babel-plugin-proto-to-assign@1.0.4, babel-plugin-runtime@1.0.7, globals@6.4.1, esutils@2.0.2, private@0.1.6, convert-source-map@1.2.0, js-tokens@1.0.1, home-or-tmp@1.0.0, source-map@0.5.3, debug@2.2.0, babel-plugin-undeclared-variables-check@1.0.2, babylon@5.8.35, line-numbers@0.2.0, is-integer@1.0.6, repeating@1.1.3, chalk@1.1.1, detect-indent@3.0.1, minimatch@2.0.10, bluebird@2.10.2, output-file-sync@1.1.1, resolve@1.1.7, source-map-support@0.2.10, regexpu@1.3.0, json5@0.4.0, regenerator@0.8.40, lodash@3.10.1, core-js@1.2.6)
+
+grunt-eslint@17.3.2 node_modules/grunt-eslint
+├── chalk@1.1.1 (escape-string-regexp@1.0.5, supports-color@2.0.0, strip-ansi@3.0.1, has-ansi@2.0.0, ansi-styles@2.2.0)
+└── eslint@1.10.3 (object-assign@4.0.1, escape-string-regexp@1.0.5, path-is-absolute@1.0.0, estraverse@4.2.0, path-is-inside@1.0.1, globals@8.18.0, xml-escape@1.0.0, strip-json-comments@1.0.4, esutils@2.0.2, estraverse-fb@1.3.1, text-table@0.2.0, user-home@2.0.0, espree@2.2.5, debug@2.2.0, is-resolvable@1.0.0, doctrine@0.7.2, glob@5.0.15, minimatch@3.0.0, optionator@0.6.0, json-stable-stringify@1.0.1, lodash.merge@3.3.2, mkdirp@0.5.1, concat-stream@1.5.1, lodash.clonedeep@3.0.2, lodash.omit@3.1.0, is-my-json-valid@2.13.1, js-yaml@3.4.5, file-entry-cache@1.2.4, handlebars@4.0.5, inquirer@0.11.4, escope@3.6.0)
+
+grunt-jscs@2.4.0 node_modules/grunt-jscs
+├── vow@0.4.12
+├── hooker@0.2.3
+├── lodash@3.10.1
+└── jscs@2.6.0 (to-double-quotes@2.0.0, estraverse@4.2.0, to-single-quotes@2.0.0, strip-json-comments@1.0.4, reserved-words@0.1.1, natural-compare@1.2.2, pathval@0.1.1, jscs-preset-wikimedia@1.0.0, esprima@2.7.2, strip-bom@2.0.0, exit@0.1.2, commander@2.9.0, xmlbuilder@3.1.0, chalk@1.1.1, glob@5.0.15, minimatch@3.0.0, cli-table@0.3.1, babel-jscs@2.0.5, resolve@1.1.7, jscs-jsdoc@1.2.0, vow-fs@0.3.4, js-yaml@3.4.6, htmlparser2@3.8.3, prompt@0.2.14, jsonlint@1.6.2, escope@3.6.0, babel-core@5.8.35)
+
+npm-shrinkwrap@200.4.0 node_modules/npm-shrinkwrap
+├── read-json@0.1.0
+├── sorted-object@1.0.0
+├── array-find@0.1.1
+├── string-template@0.2.1
+├── safe-json-parse@2.0.0
+├── run-parallel@1.1.5
+├── run-series@1.1.4
+├── minimist@1.2.0
+├── semver@4.3.6
+├── error@4.4.0 (xtend@4.0.1, camelize@1.0.0)
+├── rimraf@2.5.2 (glob@7.0.3)
+├── msee@0.1.2 (marked@0.3.5, chalk@0.4.0, nopt@2.1.2, xtend@2.1.2, cardinal@0.5.0)
+├── json-diff@0.3.1 (dreamopt@0.6.0, difflib@0.2.4, cli-color@0.1.7)
+└── npm@2.15.0
+
+grunt-sass@1.1.0 node_modules/grunt-sass
+├── object-assign@4.0.1
+├── each-async@1.1.1 (set-immediate-shim@1.0.1, onetime@1.1.0)
+└── node-sass@3.4.2 (get-stdin@4.0.1, async-foreach@0.1.3, chalk@1.1.1, mkdirp@0.5.1, nan@2.2.0, glob@5.0.15, npmconf@2.1.2, gaze@0.5.2, meow@3.7.0, cross-spawn@2.1.5, request@2.69.0, sass-graph@2.1.1, node-gyp@3.3.1)
